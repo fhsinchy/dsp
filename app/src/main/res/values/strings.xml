@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DSP</string>
+    <string name="add_data">Add Data</string>
+    <string name="comments">Other</string>
+    <string name="feeling">How do you feel right now?</string>
+    <string name="sleep">Sleep quality?</string>
+    <string name="stress">Stress level?</string>
+    <string name="activity">Which activity you did today?</string>
+    <string name="social_prescribing">Any activity on Social Prescibing today?</string>
+    <string name="prescribed_activity">If Yes - select from the list:</string>
 </resources>
